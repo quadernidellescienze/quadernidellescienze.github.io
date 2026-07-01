@@ -19,17 +19,13 @@ Il nostro obiettivo è trasformare concetti complessi in contenuti comprensibili
 Se vuoi collaborare, segnalare un argomento o fare una domanda, non esitare a contattarci attraverso i nostri canali presenti nel piè di pagina!
 
 ***
-
-
-***
-
 ***
 
 ### 📄 Licenza dei Contenuti
 
 <p align="center">
   <a href="https://creativecommons.org" target="_blank" rel="license noopener noreferrer">
-    <img src="https://licensebuttons.net" alt="Licenza Creative Commons BY-NC" width="150">
+    <img src="{{ '/assets/img/cc-by-nc.png' | relative_url }}" alt="Licenza Creative Commons BY-NC" width="150">
   </a>
 </p>
 
@@ -38,4 +34,5 @@ I testi e i contenuti divulgativi pubblicati su **I Quaderni delle Scienze** son
 Salvo diversa indicazione, l'intera opera è rilasciata sotto una licenza **[Creative Commons Attribuzione - Non commerciale 4.0 Internazionale (CC BY-NC 4.0)](https://creativecommons.org)**.
 
 Questo significa che sei libero di condividere, copiare, distribuire e modificare il materiale per qualsiasi scopo non commerciale, a condizione di citare appropriatamente la fonte (*I Quaderni delle Scienze*) e inserire un link alla licenza originale.
+
 
