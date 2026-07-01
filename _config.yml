@@ -18,10 +18,15 @@ author: "Quaderni delle Scienze"
 ###############################################
 
 navbar-links:
+  "Home": ""
+  "Quaderni":
+    - Biologia: "quaderni/biologia"
+    - Chimica: "quaderni/chimica"
+    - Matematica: "quaderni/matematica"
+    - Scienze della Terra: "quaderni/scienze-della-terra"
+    - Scienze Naturali: "quaderni/scienze-naturali"
+    - Informatica: "quaderni/informatica"
   "Informazioni": "aboutme"
-  "Risorse":
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Impara il Markdown: "https://www.markdowntutorial.com/"
 
 
 
