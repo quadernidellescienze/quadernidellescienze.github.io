@@ -29,7 +29,7 @@ navbar-links:
     - Scienze della Terra: "quaderni/scienze-della-terra"
     - Scienze Naturali: "quaderni/scienze-naturali"
     - Informatica: "quaderni/informatica"
-  "Informazioni": "aboutme"
+  "Chi siamo": "aboutme"
 
 ################
 # --- Logo --- #
