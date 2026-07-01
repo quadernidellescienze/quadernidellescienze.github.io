@@ -10,7 +10,7 @@ Il nostro obiettivo è trasformare concetti complessi in contenuti comprensibili
 
 ### Cosa troverai qui
 
-* **Rigore Scientifico**: Contenuti basati su evidenze e supportati da formule matematiche e chimiche precise.
+* **Rigore Scientifico**: Contenuti basati su studi scientifici, evidenze empiriche e formule matematiche e chimiche rigorose.
 * **Chiarezza Editoriale**: Spiegazioni lineari adatte sia agli appassionati che a chi si avvicina alla scienza per la prima volta.
 * **Strumenti Visivi**: Tabelle dati, grafici e approfondimenti strutturati per una lettura ottimale.
 
