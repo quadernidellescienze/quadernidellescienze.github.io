@@ -25,7 +25,7 @@ Se vuoi collaborare, segnalare un argomento o fare una domanda, non esitare a co
 
 <p align="center">
   <a href="https://creativecommons.org" target="_blank" rel="license noopener noreferrer">
-    <img src="{{ '/assets/img/cc-by-nc.png' | relative_url }}" alt="Licenza Creative Commons BY-NC" width="150">
+    <img src="{{ '/assets/img/by-nc.eu_.png' | relative_url }}" alt="Licenza Creative Commons BY-NC" width="150">
   </a>
 </p>
 
