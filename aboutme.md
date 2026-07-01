@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Informazioni
+title: Chi siamo
 subtitle: Il progetto dietro I Quaderni delle Scienze
 ---
 
