@@ -171,5 +171,15 @@
       {% include {{ file }} %}
     {% endfor %}
   {% endif %}
-
+<!-- Configurazione e caricamento di MathJax per formule scientifiche -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://jsdelivr.net"></script>
 </head>
