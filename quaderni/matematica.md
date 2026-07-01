@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quaderni di Matematica
-subtitle: Esplora gli articoli di Algebra, Geometria e Analisi
+subtitle: Esplora gli articoli di Algebra, Geometria, Analisi e i Formulari
 ---
 
 Benvenuto nei Quaderni di Matematica. Seleziona una branca per visualizzare gli approfondimenti dedicati:
@@ -23,6 +23,13 @@ Benvenuto nei Quaderni di Matematica. Seleziona una branca per visualizzare gli 
 ## 📊 Analisi e altre branche
 <ul>
   {% for post in site.tags.analisi %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%d/%m/%Y" }}</li>
+  {% endfor %}
+</ul>
+
+## 📝 Formulario
+<ul>
+  {% for post in site.tags.formulario %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%d/%m/%Y" }}</li>
   {% endfor %}
 </ul>
