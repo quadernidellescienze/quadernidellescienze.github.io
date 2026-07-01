@@ -125,3 +125,6 @@ str_tags: "Tag"
 str_search_placeholder: "Cerca articoli..."
 str_no_results: "Nessun risultato trovato"
 str_read_time: "minuti di lettura"
+# Configurazione di Google Analytics 4
+gtag: "G-R2T1NYQX4S"
+
