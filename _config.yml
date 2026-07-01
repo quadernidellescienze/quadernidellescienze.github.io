@@ -23,15 +23,19 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Impara il Markdown: "https://www.markdowntutorial.com/"
 
+
+
 ################
 # --- Logo --- #
 ################
 
-# Immagine nella barra di navigazione (funziona meglio se quadrata)
-avatar: "/assets/img/avatar-icon.png"
+# Immagine nella barra di navigazione (inserisci il nome esatto con cui lo carichi)
+avatar: "/assets/img/logo.png"
 
-# Taglia l'immagine dell'avatar a forma di cerchio
-round-avatar: true
+# IMPOSTA SU FALSE: il tuo logo è già rotondo. Disattivando il ritaglio CSS del tema,
+# eviti che i bordi esterni del cerchio arancione vengano accidentalmente smussati o distorti.
+round-avatar: false
+
 
 #####################################
 # --- Link Social nel Footer --- #
