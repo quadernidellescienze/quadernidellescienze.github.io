@@ -127,13 +127,3 @@ str_read_time: "minuti di lettura"
 
 # Configurazione di Google Analytics 4
 gtag: "G-R2T1NYQX4S"
-
-###########################
-# --- Plugin di Sistema --- #
-###########################
-
-# Plugin nativi di GitHub Pages per la SEO e la sitemap
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
