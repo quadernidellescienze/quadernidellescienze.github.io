@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Informazioni
+subtitle: Il progetto dietro I Quaderni delle Scienze
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Benvenuto su **I Quaderni delle Scienze**, uno spazio digitale dedicato alla divulgazione scientifica rigorosa, chiara e accessibile a tutti. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Il nostro obiettivo è trasformare concetti complessi in contenuti comprensibili, senza mai perdere la precisione metodologica. Dalla fisica teorica alla chimica molecolare, ogni articolo è pensato per stimolare la curiosità e approfondire la conoscenza del mondo che ci circonda.
 
-What else do you need?
+### Cosa troverai qui
 
-### My story
+* **Rigore Scientifico**: Contenuti basati su evidenze e supportati da formule matematiche e chimiche precise.
+* **Chiarezza Editoriale**: Spiegazioni lineari adatte sia agli appassionati che a chi si avvicina alla scienza per la prima volta.
+* **Strumenti Visivi**: Tabelle dati, grafici e approfondimenti strutturati per una lettura ottimale.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+> "La scienza non è solo un corpo di conoscenze, ma un modo di pensare." — Carl Sagan
+
+Se vuoi collaborare, segnalare un argomento o fare una domanda, non esitare a contattarci attraverso i nostri canali presenti nel piè di pagina!
