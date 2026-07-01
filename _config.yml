@@ -13,6 +13,9 @@ title: I Quaderni delle Scienze
 # Il tuo nome che apparirà nel piè di pagina (footer)
 author: "Quaderni delle Scienze"
 
+# Descrizione SEO per i motori di ricerca (Google leggerà questo frammento sotto il titolo del sito)
+description: "I Quaderni delle Scienze è un portale di divulgazione scientifica dedicato a Chimica, Biologia, Matematica e Informatica, con approfondimenti rigorosi e formule interattive."
+
 ###############################################
 # --- Lista dei link nella barra di navigazione --- #
 ###############################################
@@ -28,8 +31,6 @@ navbar-links:
     - Informatica: "quaderni/informatica"
   "Informazioni": "aboutme"
 
-
-
 ################
 # --- Logo --- #
 ################
@@ -40,7 +41,6 @@ avatar: "/assets/img/logo.png"
 # IMPOSTA SU FALSE: il tuo logo è già rotondo. Disattivando il ritaglio CSS del tema,
 # eviti che i bordi esterni del cerchio arancione vengano accidentalmente smussati o distorti.
 round-avatar: false
-
 
 #####################################
 # --- Link Social nel Footer --- #
@@ -112,7 +112,6 @@ footer-text-col: "#E2E8F0"
 footer-link-col: "#FFFFFF"
 footer-hover-col: "#F6AD55"
 
-
 ###########################################
 # --- Stringhe per la lingua Italiana --- #
 ###########################################
@@ -125,6 +124,16 @@ str_tags: "Tag"
 str_search_placeholder: "Cerca articoli..."
 str_no_results: "Nessun risultato trovato"
 str_read_time: "minuti di lettura"
+
 # Configurazione di Google Analytics 4
 gtag: "G-R2T1NYQX4S"
 
+###########################
+# --- Plugin di Sistema --- #
+###########################
+
+# Plugin nativi di GitHub Pages per la SEO e la sitemap
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
