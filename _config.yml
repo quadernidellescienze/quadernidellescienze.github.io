@@ -95,17 +95,18 @@ navbar-var-length: false
 # --- Colori e Personalizzazioni --- #
 ######################################
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#FAFAFA"
+text-col: "#2D3748"
+link-col: "#DD6B20"
+hover-col: "#B7791F"
+navbar-col: "#1A365D"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#1A365D"
+footer-col: "#1A365D"
+footer-text-col: "#E2E8F0"
+footer-link-col: "#FFFFFF"
+footer-hover-col: "#F6AD55"
+
 
 ###########################################
 # --- Stringhe per la lingua Italiana --- #
