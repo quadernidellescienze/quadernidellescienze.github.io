@@ -14,13 +14,12 @@ Il nostro obiettivo è trasformare concetti complessi in contenuti comprensibili
 * **Chiarezza Editoriale**: Spiegazioni lineari adatte sia agli appassionati che a chi si avvicina alla scienza per la prima volta.
 * **Strumenti Visivi**: Tabelle dati, grafici e approfondimenti strutturati per una lettura ottimale.
 
-> "La scienza non è solo un corpo di conoscenze, ma un modo di pensare." — Carl Sagan
-
 ### Una nota importante
 
 Questo è un **progetto amatoriale** nato dalla passione per la scienza. I nostri articoli sono pensati come introduzioni e approfondimenti divulgativi e **non sostituiscono in alcun modo i testi specialistici, i manuali tecnici o il ricorso a fonti accademiche ufficiali** quando si approfondiscono tematiche complesse o si necessita di informazioni rigorose per scopi professionali o accademici.
 Se anche una sola persona troverà interessanti o utili i nostri articoli, avremo raggiunto il nostro scopo. La vostra curiosità è la nostra più grande soddisfazione.
 
+> "La scienza non è solo un corpo di conoscenze, ma un modo di pensare." — Carl Sagan
 
 Se vuoi collaborare, segnalare un argomento o fare una domanda, non esitare a contattarci attraverso i nostri canali presenti nel piè di pagina!
 
