@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "I social su cui ci trovi"
+title: "Dove ci trovi"
 permalink: /links/
 navbar-links: false
 show-avatar: true
