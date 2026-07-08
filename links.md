@@ -1,7 +1,12 @@
 ---
+
 layout: page
 title: "I canali social dove trovarci"
 permalink: /links/
+navbar-links: false
+show-avatar: true
+---
+
 # Rimuove gli elementi del tema Beautiful Jekyll per focalizzare l'attenzione sui link
 navbar-links: false
 show-avatar: true
