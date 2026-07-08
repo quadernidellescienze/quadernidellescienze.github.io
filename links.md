@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "I miei Link"
+title: "I canali social dove trovarci"
 permalink: /links/
 # Rimuove gli elementi del tema Beautiful Jekyll per focalizzare l'attenzione sui link
 navbar-links: false
