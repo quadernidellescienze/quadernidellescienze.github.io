@@ -38,7 +38,7 @@ show-avatar: true
   
   <a href="https://www.instagram.com/quadernidellescienze" class="bio-btn">📸 Seguimci su Instagram</a>
   
-  <a href="https://www.facebook.com/profile.php?id=61591230435453 class="bio-btn">👥 Pagina Facebook</a>
+  <a href="https://www.facebook.com/profile.php?id=61591230435453" class="bio-btn">👥 Pagina Facebook</a>
   
   <a href="https://www.youtube.com/@quadernidellescienze" class="bio-btn">📺 Canale YouTube</a>
 
