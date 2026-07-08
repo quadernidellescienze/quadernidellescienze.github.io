@@ -36,10 +36,10 @@ show-avatar: true
 
   <a href="https://github.io" class="bio-btn">🌐 Visita il mio Sito Web</a>
   
-  <a href="https://instagram.com" class="bio-btn">📸 Seguimi su Instagram</a>
+  <a href="https://www.instagram.com/quadernidellescienze)" class="bio-btn">📸 Seguimi su Instagram</a>
   
-  <a href="https://facebook.com" class="bio-btn">👥 Pagina Facebook</a>
+  <a href="https://www.facebook.com/profile.php?id=61591230435453">👥 Pagina Facebook</a>
   
-  <a href="https://youtube.com" class="bio-btn">📺 Canale YouTube</a>
+  <a href="https://www.youtube.com/@quadernidellescienze" class="bio-btn">📺 Canale YouTube</a>
 
 </div>
