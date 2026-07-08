@@ -36,7 +36,7 @@ show-avatar: true
 <div class="link-bio-container">
 
   <!-- Sostituisci gli URL di esempio con i tuoi link reali -->
-  <a href="https://iltuosito.com" class="bio-btn">🌐 Visita il nostro Sito Web</a>
+  <a href="quadernidellescienze.github.io" class="bio-btn">🌐 Visita il nostro Sito Web</a>
   
   <a href="instagram.com/quadernidellescienze" class="bio-btn">📸 Seguici su Instagram</a>
   
