@@ -134,3 +134,5 @@ mathjax: true
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+
+  excerpt_separator: "<!--more-->"
