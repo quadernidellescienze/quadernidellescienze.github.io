@@ -25,6 +25,7 @@ navbar-links:
   "Quaderni":
     - Biologia: "quaderni/biologia"
     - Chimica: "quaderni/chimica"
+    - Fisica: "quaderni/fisica"
     - Matematica: "quaderni/matematica"
     - Scienze della Terra: "quaderni/scienze-della-terra"
     - Scienze Naturali: "quaderni/scienze-naturali"
