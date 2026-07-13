@@ -48,7 +48,7 @@ round-avatar: false
 
 # Rimuovi il cancelletto (#) dalle righe che vuoi attivare e inserisci i tuoi dati
 social-network-links:
-  email: "someone@example.com"
+# email: "someone@example.com"
   rss: true
   facebook: https://www.facebook.com/profile.php?id=61591230435453
 #  github: iltuonome
