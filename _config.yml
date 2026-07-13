@@ -129,6 +129,8 @@ str_read_time: "minuti di lettura"
 # Configurazione di Google Analytics 4
 gtag: "G-R2T1NYQX4S"
 
+mathjax: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
