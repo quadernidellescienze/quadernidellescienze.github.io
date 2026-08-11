@@ -52,6 +52,19 @@ subtitle: "Esploriamo la complessità della vita, dai meccanismi cellulari alla 
           {% endif %}
         </a>
         <p class="post-meta" style="color: #999; font-size: 0.85rem;">Pubblicato il {{ post.date | date: "%d/%m/%Y" }}</p>
+        
+        <!-- BLOCCO AGGIORNATO: Visualizzazione dei Tag sotto il titolo del post -->
+        {% if post.tags.size > 0 %}
+          <div class="blog-tags" style="margin-bottom: 15px; font-size: 0.85rem;">
+            <span style="color: #666;">Tag:</span>
+            {% for tag in post.tags %}
+              <span class="badge" style="background-color: #e2e8f0; color: #1f365c; padding: 3px 8px; margin-right: 5px; border-radius: 4px; display: inline-block;">
+                {{ tag }}
+              </span>
+            {% endfor %}
+          </div>
+        {% endif %}
+
         <div class="post-entry">
           {{ post.excerpt | strip_html | truncatewords: 30 }}
           <a href="{{ post.url | relative_url }}" class="post-read-more" style="font-weight: bold;">[Leggi tutto]</a>
@@ -76,8 +89,11 @@ function filtraBiologia(tag) {
     p.style.background = 'transparent';
     p.style.color = '#1f365c';
   });
-  event.target.style.background = '#1f365c';
-  event.target.style.color = 'white';
+  
+  // Risolto bug potenziale del puntamento di event.target
+  const target = event.currentTarget || event.target;
+  target.style.background = '#1f365c';
+  target.style.color = 'white';
 
   const articoli = document.querySelectorAll('.voce-articolo');
   articoli.forEach(art => {
