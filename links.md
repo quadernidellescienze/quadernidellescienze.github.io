@@ -34,7 +34,7 @@ show-avatar: true
 
 <div class="link-bio-container">
 
-  <a href="https://github.io" class="bio-btn">🌐 Visita il Sito Web</a>
+  <a href="https://quadernidellescienze.github.io/" class="bio-btn">🌐 Visita il Sito Web</a>
   
   <a href="https://www.instagram.com/quadernidellescienze" class="bio-btn">📸 Seguici su Instagram</a>
   
