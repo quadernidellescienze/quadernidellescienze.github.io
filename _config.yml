@@ -21,7 +21,7 @@ description: "I Quaderni delle Scienze è un portale di divulgazione scientifica
 ###############################################
 
 navbar-links:
-  "Home": ""
+  "Home": "/"
   "Quaderni":
     - Biologia: "quaderni/biologia"
     - Chimica: "quaderni/chimica"
