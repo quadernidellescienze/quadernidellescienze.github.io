@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scienze della Terra
-subtitle: "Esploriamo la dinamica del nostro pianeta, dalla geologia dei profondi strati terrestri ai fenomeni atmosferici"
+subtitle: "Dalla dinamica della litosfera ai segreti dell'atmosfera: la storia e l'evoluzione del nostro pianeta"
 ---
 
 <!-- 1. GENERAZIONE AUTOMATICA DEI TAG DI SCIENZE DELLA TERRA -->
@@ -14,6 +14,7 @@ subtitle: "Esploriamo la dinamica del nostro pianeta, dalla geologia dei profond
     Tutti i post
   </button>
 
+  <!-- Script Jekyll per isolare solo i tag di Scienze della Terra -->
   {% assign post_terra = site.categories.scienze-della-terra %}
   {% assign tag_terra = "" | split: "," %}
   
@@ -32,7 +33,7 @@ subtitle: "Esploriamo la dinamica del nostro pianeta, dalla geologia dei profond
   {% endfor %}
 </div>
 
-<!-- 2. ELENCO DEI POST -->
+<!-- 2. ELENCO DEI POST DI SCIENZE DELLA TERRA -->
 <div class="posts-list">
   {% if post_terra.size > 0 %}
     {% for post in post_terra %}
@@ -51,6 +52,19 @@ subtitle: "Esploriamo la dinamica del nostro pianeta, dalla geologia dei profond
           {% endif %}
         </a>
         <p class="post-meta" style="color: #999; font-size: 0.85rem;">Pubblicato il {{ post.date | date: "%d/%m/%Y" }}</p>
+        
+        <!-- Visualizzazione dei Tag sotto il titolo del post -->
+        {% if post.tags.size > 0 %}
+          <div class="blog-tags" style="margin-bottom: 15px; font-size: 0.85rem;">
+            <span style="color: #666;">Tag:</span>
+            {% for tag in post.tags %}
+              <span class="badge" style="background-color: #e2e8f0; color: #1f365c; padding: 3px 8px; margin-right: 5px; border-radius: 4px; display: inline-block;">
+                {{ tag }}
+              </span>
+            {% endfor %}
+          </div>
+        {% endif %}
+
         <div class="post-entry">
           {{ post.excerpt | strip_html | truncatewords: 30 }}
           <a href="{{ post.url | relative_url }}" class="post-read-more" style="font-weight: bold;">[Leggi tutto]</a>
@@ -58,15 +72,16 @@ subtitle: "Esploriamo la dinamica del nostro pianeta, dalla geologia dei profond
       </article>
     {% endfor %}
   {% else %}
+    <!-- Messaggio provvisorio -->
     <div style="text-align: center; margin: 40px auto; padding: 20px; background: #f8f9fa; border-radius: 6px;">
       <p style="color: #666; font-size: 1.1rem; margin: 0;">
-        🌋 Stiamo preparando i primi articoli di Scienze della Terra. I movimenti tettonici richiedono pazienza!
+        🌍 I segreti della Terra richiedono ere geologiche... I primi articoli arriveranno presto!
       </p>
     </div>
   {% endif %}
 </div>
 
-<!-- 3. SCRIPT JAVASCRIPT -->
+<!-- 3. SCRIPT JAVASCRIPT PER IL FILTRAGGIO RAPIDO -->
 <script>
 function filtraTerra(tag) {
   const pulsanti = document.querySelectorAll('.btn-filtro');
@@ -74,8 +89,10 @@ function filtraTerra(tag) {
     p.style.background = 'transparent';
     p.style.color = '#1f365c';
   });
-  event.target.style.background = '#1f365c';
-  event.target.style.color = 'white';
+  
+  const target = event.currentTarget || event.target;
+  target.style.background = '#1f365c';
+  target.style.color = 'white';
 
   const articoli = document.querySelectorAll('.voce-articolo');
   articoli.forEach(art => {
