@@ -2,7 +2,7 @@
 layout: post
 title: "Microplastiche nel Sangue e nel Cuore: I Rischi per la Salute"
 subtitle: "Come le particelle invisibili colonizzano i nostri organi e compromettono il sistema cardiovascolare"
-category: BIOLOGIA
+category: biologia
 tags: [salute, microplastiche, scienze]
 cover-img: "/assets/img/copertine/copertina-microplastiche.webp"
 thumbnail-img: "/assets/img/copertine/copertina-microplastiche.webp"
