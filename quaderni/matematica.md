@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Matematica
-subtitle: "Esploriamo il linguaggio universale delle strutture, dei numeri e dei modelli logici"
+subtitle: "Dai numeri fondamentali alle strutture astratte: l'eleganza della logica e del linguaggio universale"
 ---
 
 <!-- 1. GENERAZIONE AUTOMATICA DEI TAG DI MATEMATICA -->
@@ -52,6 +52,19 @@ subtitle: "Esploriamo il linguaggio universale delle strutture, dei numeri e dei
           {% endif %}
         </a>
         <p class="post-meta" style="color: #999; font-size: 0.85rem;">Pubblicato il {{ post.date | date: "%d/%m/%Y" }}</p>
+        
+        <!-- Visualizzazione dei Tag sotto il titolo del post -->
+        {% if post.tags.size > 0 %}
+          <div class="blog-tags" style="margin-bottom: 15px; font-size: 0.85rem;">
+            <span style="color: #666;">Tag:</span>
+            {% for tag in post.tags %}
+              <span class="badge" style="background-color: #e2e8f0; color: #1f365c; padding: 3px 8px; margin-right: 5px; border-radius: 4px; display: inline-block;">
+                {{ tag }}
+              </span>
+            {% endfor %}
+          </div>
+        {% endif %}
+
         <div class="post-entry">
           {{ post.excerpt | strip_html | truncatewords: 30 }}
           <a href="{{ post.url | relative_url }}" class="post-read-more" style="font-weight: bold;">[Leggi tutto]</a>
@@ -62,7 +75,7 @@ subtitle: "Esploriamo il linguaggio universale delle strutture, dei numeri e dei
     <!-- Messaggio provvisorio per Matematica -->
     <div style="text-align: center; margin: 40px auto; padding: 20px; background: #f8f9fa; border-radius: 6px;">
       <p style="color: #666; font-size: 1.1rem; margin: 0;">
-        📐 Stiamo preparando i primi articoli di Matematica. I conti devono tornare al millesimo!
+        📐 Stiamo calcolando... I primi articoli di Matematica arriveranno a breve. Q.E.D.!
       </p>
     </div>
   {% endif %}
@@ -76,8 +89,10 @@ function filtraMatematica(tag) {
     p.style.background = 'transparent';
     p.style.color = '#1f365c';
   });
-  event.target.style.background = '#1f365c';
-  event.target.style.color = 'white';
+  
+  const target = event.currentTarget || event.target;
+  target.style.background = '#1f365c';
+  target.style.color = 'white';
 
   const articoli = document.querySelectorAll('.voce-articolo');
   articoli.forEach(art => {
