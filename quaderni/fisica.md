@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fisica
-subtitle: "Esploriamo le leggi che governano l'universo"
+subtitle: "Dalle leggi del movimento ai segreti del cosmo: comprendere l'universo e i suoi fenomeni"
 ---
 
 <!-- 1. GENERAZIONE AUTOMATICA DEI TAG DI FISICA -->
@@ -10,12 +10,11 @@ subtitle: "Esploriamo le leggi che governano l'universo"
     Sottocategorie:
   </span>
   
-  <!-- Cliccando qui si azzera il filtro e si vedono tutti i post di fisica -->
   <button onclick="filtraFisica('all')" class="btn-filtro active" style="margin: 2px 5px; padding: 4px 10px; border: 1px solid #1f365c; background: #1f365c; color: white; border-radius: 4px; font-size: 0.85rem; cursor: pointer; font-weight: 600;">
     Tutti i post
   </button>
 
-  <!-- Script Jekyll per trovare solo i tag presenti nei post di fisica -->
+  <!-- Script Jekyll per isolare solo i tag di Fisica -->
   {% assign post_fisica = site.categories.fisica %}
   {% assign tag_fisica = "" | split: "," %}
   
@@ -39,7 +38,6 @@ subtitle: "Esploriamo le leggi che governano l'universo"
   {% if post_fisica.size > 0 %}
     {% for post in post_fisica %}
       
-      <!-- Creiamo una classe CSS temporanea per ogni tag del post -->
       {% assign tag_classes = "" %}
       {% for tag in post.tags %}
         {% assign tag_slug = tag | slugify %}
@@ -54,6 +52,19 @@ subtitle: "Esploriamo le leggi che governano l'universo"
           {% endif %}
         </a>
         <p class="post-meta" style="color: #999; font-size: 0.85rem;">Pubblicato il {{ post.date | date: "%d/%m/%Y" }}</p>
+        
+        <!-- Visualizzazione dei Tag sotto il titolo del post -->
+        {% if post.tags.size > 0 %}
+          <div class="blog-tags" style="margin-bottom: 15px; font-size: 0.85rem;">
+            <span style="color: #666;">Tag:</span>
+            {% for tag in post.tags %}
+              <span class="badge" style="background-color: #e2e8f0; color: #1f365c; padding: 3px 8px; margin-right: 5px; border-radius: 4px; display: inline-block;">
+                {{ tag }}
+              </span>
+            {% endfor %}
+          </div>
+        {% endif %}
+
         <div class="post-entry">
           {{ post.excerpt | strip_html | truncatewords: 30 }}
           <a href="{{ post.url | relative_url }}" class="post-read-more" style="font-weight: bold;">[Leggi tutto]</a>
@@ -61,9 +72,10 @@ subtitle: "Esploriamo le leggi che governano l'universo"
       </article>
     {% endfor %}
   {% else %}
+    <!-- Messaggio provvisorio per Fisica -->
     <div style="text-align: center; margin: 40px auto; padding: 20px; background: #f8f9fa; border-radius: 6px;">
       <p style="color: #666; font-size: 1.1rem; margin: 0;">
-        🔬 Stiamo preparando i primi articoli di Fisica. Il laboratorio è in piena attività!
+        🌌 Stiamo preparando i primi articoli di Fisica. Grandi scoperte sono in movimento!
       </p>
     </div>
   {% endif %}
@@ -72,16 +84,16 @@ subtitle: "Esploriamo le leggi che governano l'universo"
 <!-- 3. SCRIPT JAVASCRIPT PER IL FILTRAGGIO RAPIDO -->
 <script>
 function filtraFisica(tag) {
-  // Gestione stile dei pulsanti
   const pulsanti = document.querySelectorAll('.btn-filtro');
   pulsanti.forEach(p => {
     p.style.background = 'transparent';
     p.style.color = '#1f365c';
   });
-  event.target.style.background = '#1f365c';
-  event.target.style.color = 'white';
+  
+  const target = event.currentTarget || event.target;
+  target.style.background = '#1f365c';
+  target.style.color = 'white';
 
-  // Mostra o nasconde gli articoli in base al tag cliccato
   const articoli = document.querySelectorAll('.voce-articolo');
   articoli.forEach(art => {
     if (tag === 'all') {
