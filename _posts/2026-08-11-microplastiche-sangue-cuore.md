@@ -83,3 +83,19 @@ Anche se non esiste una pillola medica per capire **come eliminare le microplast
 *   **Filtrare l'acqua e preferire il vetro:** Bere acqua del rubinetto filtrata, conservandola in bottiglie di vetro o acciaio, riduce l'apporto di particelle rispetto all'acqua minerale in bottiglie di plastica, che possono contenere fino a 10.000 frammenti per litro.
 
 Adottare queste attenzioni nella vita di tutti i giorni rappresenta una difesa attiva per noi stessi e un contributo concreto alla tutela della salute pubblica.
+
+---
+
+## Fonti e Approfondimenti
+
+"Claudia Campanale, Carmine Massarelli, Ilaria Savino, Vito Locaputo e Vito Felice Uricchio", "A Detailed Review Study on Potential Effects of Microplastics and Additives of Concern on Human Health" (2020).
+"Robin Janzik, Mathew P. White, Sabine Pahl, Severine Koch, Giorgia Zamariola, Domagoj Vrbos e Natalie Berger", "Is the public really concerned about microplastics?" (2026).
+"Rakesh Kumar, Camelia Manna, Shaveta Padha, Anurag Verma, Prabhakar Sharma, Anjali Dhar, Ashok Ghosh e Prosun Bhattacharya", "Micro(nano)plastics pollution and human health: How plastics can induce carcinogenesis?" (2022).
+"Y.-H. Lee, C.-M. Zheng, Y.-J. Wang, Y.-L. Wang e H.-W. Chiu", "Effects of microplastics and nanoplastics on the kidney and cardiovascular system" (2025).
+"Raffaele Marfella, Francesco Prattichizzo, Celestino Sardu, Gianluca Fulgenzi, Laura Graciotti, Tatiana Spadoni, Nunzia D’Onofrio et al.", "Microplastics and Nanoplastics in Atheromas and Cardiovascular Events" (2024).
+"Xuemei Meng, Jiawei Zhang, Wenjing Wang, Graciela Gonzalez-Gil, Johannes S. Vrouwenvelder e Zhenyu Li", "Effects of nano- and micro-polystyrene plastics on kidney: Physicochemical properties, bioaccumulation, oxidative stress and immunoreaction" (2022).
+"Parlamento Europeo", "Microplastiche: origini, effetti e soluzioni" (2018).
+"M. Revel, A. Châtel e C. Mouneyrac", "Micro(nano)plastics: a threat to human health?" (2018).
+"K.H.D. Tang, R. Li, Z. Li e D. Wang", "Health risk of human exposure to microplastics: a review" (2024).
+"A. Dick Vethaak e Juliette Legler", "Microplastics and human health" (2021).
+"Ewa Winiarska, Marek Jutel e Magdalena Zemelka-Wiacek", "The potential impact of nano- and microplastics on human health: Understanding human health risks" (2024).
