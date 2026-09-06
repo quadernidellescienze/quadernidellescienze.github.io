@@ -51,7 +51,7 @@ round-avatar: false
 social-network-links:
 # email: "someone@example.com"
   rss: true
-  facebook: https://www.facebook.com/profile.php?id=61591230435453
+  facebook: /profile.php?id=61591230435453
 #  github: iltuonome
 #  twitter: iltuonome
   youtube: "@quadernidellescienze"
