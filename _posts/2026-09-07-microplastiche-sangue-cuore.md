@@ -10,7 +10,6 @@ share-img: "/assets/img/copertine/copertina-microplastiche.webp"
 meta-description: "Microplastiche nel sangue e nel cuore: quali sono i rischi per la salute? Scopri cosa dice la scienza e come proteggere il tuo organismo oggi."
 ---
 
-### Oltre l'invisibile: come la plastica è entrata silenziosamente nel nostro sangue (e nel nostro cuore)
 
 Ogni giorno ci muoviamo in un mondo saturo di una materia creata per durare in eterno, ma che ora si sta sgretolando sotto i nostri occhi in frammenti impercettibili. Questi detriti, noti come **microplastiche e nanoplastiche** (particelle che variano da dimensioni inferiori a 5 millimetri fino a frammenti invisibili sotto il micrometro, cioè la milionesima parte di un metro), sono ormai ovunque. 
 
