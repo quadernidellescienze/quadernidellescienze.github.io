@@ -2,7 +2,7 @@
 layout: post
 title: "Fenomeni Meteo Estremi e Crisi Climatica: Falsi Miti e Soluzioni Concrete"
 subtitle: "Dalla Marmolada alle scelte quotidiane: cosa dice la scienza dell'attribuzione e come possiamo ridurre l'impronta di carbonio subito."
-category: Scienze-della-Terra
+category: "Scienze-della-Terra"
 tags: [cambiamento climatico, riscaldamento globale, climatologia, sostenibilità ambientale, energie rinnovabili]
 cover-img: "/assets/img/copertine/copertina-febbre-terra.webp"
 thumbnail-img: "/assets/img/copertine/copertina-febbre-terra.webp"
