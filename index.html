@@ -32,14 +32,28 @@ const quotes = {
   30: "«Il futuro appartiene a coloro che si preparano per esso oggi.» [Malcolm X]"
 };
 
-// Esegue lo script solo quando la pagina è completamente caricata
-window.addEventListener('DOMContentLoaded', () => {
-  const dayOfMonth = new Date().getDate();
-  const currentMonth = new Date().getMonth(); // 8 è Settembre in JavaScript
-
-  if (currentMonth === 8 && quotes[dayOfMonth]) {
-    document.getElementById('quote-box').innerText = quotes[dayOfMonth];
+// Funzione per mostrare una citazione diversa ogni giorno
+function impostaCitazioneDelGiorno() {
+  const oggi = new Date();
+  // Calcola un indice unico basato sul giorno dell'anno
+  const inizioAnno = new Date(oggi.getFullYear(), 0, 0);
+  const differenza = oggi - inizioAnno;
+  const unGiorno = 1000 * 60 * 60 * 24;
+  const giornoDellAnno = Math.floor(differenza / unGiorno);
+  
+  // Seleziona la citazione usando il resto della divisione
+  const indiceCitazione = giornoDellAnno % citazioni.length;
+  
+  // Trova l'elemento del sottotitolo nel tema Beautiful Jekyll e lo sostituisce
+  const elementoSottotitolo = document.querySelector('.page-heading .page-subheading, header.header-section .page-subheading');
+  if (elementoSottotitolo) {
+    elementoSottotitolo.innerHTML = citazioni[indiceCitazione];
   }
+}
+
+// Esegui la funzione al caricamento della pagina
+impostaCitazioneDelGiorno();
+
 });
 </script>
 
