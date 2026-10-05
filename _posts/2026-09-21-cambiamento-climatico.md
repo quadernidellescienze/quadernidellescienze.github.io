@@ -96,3 +96,8 @@ Tutto questo non significa "tornare all'età della pietra", ma seguire una dieta
 "Christian Spreafico, Davide Russo", "Assessing domestic environmental impacts through LCA using data from the scientific literature" (2020).
 
 "K. A. Tuffuor, E. Y. Tenkorang", "Effects of Climate Change on Human Security and Sustainable Development" (2023).
+
+  ### Nota e Licenza
+
+Progetto amatoriale: questo articolo non sostituisce testi accademici.
+Contenuti rilasciati con Licenza **Creative Commons BY-NC 4.0**.
