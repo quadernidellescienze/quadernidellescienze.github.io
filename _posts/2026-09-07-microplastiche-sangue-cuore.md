@@ -91,3 +91,8 @@ Anche se non esiste una pillola medica per capire **come eliminare le microplast
 * **Tang, K. H. D., Li, R., Li, Z., & Wang, D. (2024)**. *Health risk of human exposure to microplastics: a comprehensive review*. Environmental Chemistry Letters.
 * **Vethaak, A. D., & Legler, J. (2021)**. *Microplastics and human health: Knowledge gaps and research priorities*. Science.
 * **Winiarska, E., Jutel, M., & Zemelka-Wiacek, M. (2024)**. *The potential impact of nano- and microplastics on human health: Understanding immunotoxicological risks*. Environmental Research.
+
+  ### Nota e Licenza
+
+Progetto amatoriale: questo articolo non sostituisce testi accademici.
+Contenuti rilasciati con Licenza **Creative Commons BY-NC 4.0**.
