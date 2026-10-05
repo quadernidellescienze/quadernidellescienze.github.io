@@ -31,7 +31,7 @@ In pratica, la materia oscura è la colla che tiene insieme l'intera architettur
 
 ## 2. Materia oscura ed energia oscura: qual è la differenza?
 
-È uno degli equivoci più comuni della divulgazione scientifica: sentire parlare di "materia oscura" ed "energia oscura" come se fossero sinonimi, due nomi diversi per la stessa cosa misteriosa. Nel modello cosmologico oggi accettato, chiamato $\Lambda$CDM, si tratta invece di due protagonisti completamente diversi, con ruoli opposti nella storia dell'universo.
+È uno degli equivoci più comuni della divulgazione scientifica: sentire parlare di "materia oscura" ed "energia oscura" come se fossero sinonimi, due nomi diversi per la stessa cosa misteriosa. Nel modello cosmologico oggi accettato, chiamato $$\Lambda$$CDM, si tratta invece di due protagonisti completamente diversi, con ruoli opposti nella storia dell'universo.
 
 La chiave per distinguerle è semplice: pensa a un gioco di forze contrapposte. La **materia oscura**, che pesa per circa il 25-27% del bilancio totale del cosmo, tira le cose verso il centro: è una forza **attrattiva**, la stessa colla gravitazionale di cui parlavamo prima, che permette a galassie e ammassi di nascere e restare uniti.
 
