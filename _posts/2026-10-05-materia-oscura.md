@@ -97,5 +97,5 @@ Le osservazioni più recenti — dall'evaporazione teorica dei buchi neri alle r
 
   ### Nota e Licenza
 
-Progetto amatoriale: non sostituisce testi accademici.
+Progetto amatoriale: questo articolo non sostituisce testi accademici.
 Contenuti rilasciati con Licenza **Creative Commons BY-NC 4.0**.
