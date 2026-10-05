@@ -8,7 +8,7 @@ cover-img: "/assets/img/copertine/copertina-materia-oscura.webp"
 thumbnail-img: "/assets/img/copertine/copertina-materia-oscura.webp"
 share-img: "/assets/img/copertine/copertina-materia-oscura.webp"
 meta-description: "Cos'è la materia oscura e che differenza c'è con l'energia oscura? Scopri le prove scientifiche e i misteri della colla invisibile che unisce il cosmo."
-use-mathjax: true
+mathjax: true
 ---
 
 # L'Enigma Invisibile: Che cos'è la Materia Oscura e perché da essa dipende il destino dell'Universo
