@@ -95,11 +95,11 @@ Le osservazioni più recenti — dall'evaporazione teorica dei buchi neri alle r
 - "Bin Wang, Elcio Abdalla, Fernando Atrio-Barandela, Diego Pavón", "Dark matter and dark energy interactions: theoretical challenges, cosmological implications and observational signatures" (2016).
 - "Qiaoli Yang", "Axions/Axion-like particles and the CMB asymmetric dipole" (2015).
 
-'---'
+___
 
   ### Nota e Licenza
 
 Progetto amatoriale: questo articolo non sostituisce testi accademici.
 Contenuti rilasciati con Licenza **Creative Commons BY-NC 4.0**.
 
-'---'
+___
