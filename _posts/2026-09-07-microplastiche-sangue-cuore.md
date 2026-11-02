@@ -94,11 +94,11 @@ Anche se non esiste una pillola medica per capire **come eliminare le microplast
 
 ---
 
-### 🎨 Licenza
+### 🎨 Licenza e Condivisione
 
+**[CC] [BY]** Quest'opera è distribuita con Licenza [Creative Commons Attribuzione 4.0 Internazionale](https://creativecommons.org). 
 
-<i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> Quest'opera è distribuita con Licenza [Creative Commons Attribuzione 4.0 Internazionale](https://creativecommons.org). 
+I contenuti di questo articolo possono essere liberamente copiati, riscritti, distribuiti e modificati con qualsiasi mezzo e formato, anche per scopi commerciali, a patto di citare espressamente la fonte originale con un link diretto alla pagina: **I Quaderni delle Scienze**.
 
-I contenuti possono essere liberamente replicati e modificati a patto di citare espressamente la fonte e inserire un link al sito: **I Quaderni delle Scienze**.
 
 ---
