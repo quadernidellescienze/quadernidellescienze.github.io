@@ -98,10 +98,10 @@ Tutto questo non significa "tornare all'età della pietra", ma seguire una dieta
 "K. A. Tuffuor, E. Y. Tenkorang", "Effects of Climate Change on Human Security and Sustainable Development" (2023).
 
 ---
+### 🎨 Licenza
 
-  ### Nota e Licenza
+<i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> Quest'opera è distribuita con Licenza [Creative Commons Attribuzione 4.0 Internazionale](https://creativecommons.org). 
 
-Progetto amatoriale: questo articolo non sostituisce testi accademici.
-Contenuti rilasciati con Licenza **Creative Commons BY-NC 4.0**.
+I contenuti possono essere liberamente replicati e modificati a patto di citare espressamente la fonte e inserire un link al sito: **I Quaderni delle Scienze**.
 
 ---
