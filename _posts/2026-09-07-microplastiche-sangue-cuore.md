@@ -92,12 +92,16 @@ Anche se non esiste una pillola medica per capire **come eliminare le microplast
 * **Vethaak, A. D., & Legler, J. (2021)**. *Microplastics and human health: Knowledge gaps and research priorities*. Science.
 * **Winiarska, E., Jutel, M., & Zemelka-Wiacek, M. (2024)**. *The potential impact of nano- and microplastics on human health: Understanding immunotoxicological risks*. Environmental Research.
 
- ---
+---
 
 ### 🎨 Licenza
+
 [![Licenza CC BY 4.0](https://shields.io)](https://creativecommons.org)
 
 Quest'opera è distribuita con Licenza [Creative Commons Attribuzione 4.0 Internazionale](https://creativecommons.org). I contenuti possono essere liberamente replicati e modificati citando la fonte: **I Quaderni delle Scienze**.
+
+---
+
 
 ---
 
